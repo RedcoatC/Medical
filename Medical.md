@@ -102,7 +102,7 @@ If a casualty's Heart Rate drops to 0, you will be given the option to perform C
 
 
 
-6. Blood Pressure (BP) and Transfusions
+## Blood Pressure (BP) and Transfusions
 <a id="bp"></a>
 When the player is wounded and bleeding, his blood pressure will drop. The larger and more numerous the wounds, the quicker the pressure will fall.
 
@@ -113,7 +113,7 @@ BP is restored by administering IVs of Saline, Blood, and Plasma. There are 3 di
 This should only be carried out when the area is safe i.e. taking no enemy contact onto your position.
 
 
-7. Personal Aid Kit (and Surgery Kit)
+## Personal Aid Kit (and Surgery Kit)
 <a id="pak"></a>
 Surgical kit
 Is only useful when advanced wounds’ (reopening) is enabled.
@@ -125,24 +125,24 @@ Used to fully heal someone. (Removes any injury, restore vitals to a stable stat
 Its use may be limited to a certain class and / or near a vehicle / facility.
 Its use can also be limited according to the condition of the patient; you might need to stabilize him first before using it.
 
-8. Ambulance and Hospital
+## Ambulance and Hospital
 <a id="base"></a>
 The Ambulance is most often used with convoy Ops. You will be able to make use of a PAK or a Surgical Kit inside it, as long as the casualty is also inside. If they are not conscious, you'll need to drag them in yourself (or use a nearby rifleman to do it for you.)
 
 We use an Ambulance when we need to use a Personal Aid Kit or a Surgical Kit. The hospital is back at base. To get to the hospital will require a medevac.
 
-9. Medevac Procedure
+## Medevac Procedure
 <a id="medevac"></a>
 If it is determined that after treatment in a secure area casualties need MEDEVAC, the first thing is to ask the Pl Sgt to organize it. If required, move to the MEDEVAC LZ and wait for the chopper. If there are multiple casualties you should task rifleman to help you move the casualties. 
 
 Once the chopper has begun its ‘run in’ to the LZ, ensure you and/or the riflemen have the casualties on their backs ready to move to the Helo. The MEDEVAC must NOT be on the ground for a longer than ONE minute. This is absolutely vital. If you’re not achieving this, you’re failing the ‘man management’ side of being a medic. 
 
-10. Phase 3
+## Phase 3
 <a id="phase3"></a>
 
 The following is what you will use to teach Triage to new recruits in Phase 3 of their training. It is also important for you to know the Tiers as they will let you know how urgently your attention is needed.
 
-Triage Tiers:
+### Triage Tiers:
 
 When reporting a casualty, the following terms should be used to quickly inform of the severity of the situation.
 
