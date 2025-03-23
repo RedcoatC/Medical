@@ -17,7 +17,7 @@ Advanced Medic Training - V3
 
 ## Introduction to Advanced Medical Training
 <a id="intro"></a>
-
+<!-- to be changed -->
 Welcome to the Catterick Garrison School of Field Medicine. Thank you for your interest in becoming a UKSF Medic. All of us in the team hope that you will become a valued member of 1Para-Medics!
 
 Becoming a Medic requires a deeper and broader understanding of the current ACE Medical system. There is a separate document detailing the full details of the mod: http://ace3mod.com/wiki/feature/medical-system.html. However the document you are now reading is specific to UKSF Operations, and will use our specific procedures. Some information will be repeated here for your convenience. That said, do study it in detail, as it will help you to understand the current limitations of the mod (i.e. No broken bones at the moment, Surgery kit not properly implemented, etc.).
@@ -28,7 +28,7 @@ So welcome aboard! Don't be frightened off by all the technical stuff that you m
 
 ## Training Schedule
 <a id="training"></a>
-
+<!-- to be changed -->
 Advanced Medical Phase 1:
 
 Intro to ACE: "Hey, what button do I press again?"
@@ -63,6 +63,7 @@ NOTE: Phase 4 & 5 can be done in a different order if needs be. Passing phases 1
 
 ## Types of Wounds
 <a id="wounds"></a>
+
 Below there is a reference list of the wounds, along with the best bandage(s) for healing it. A more detailed description of the uses of different bandages will follow. Knowing the right bandage for the job will ensure that it stays in place for longer, and reducing both your future workload, and the time the casualty is out of the fight.
 
 |Wound|Source|Bleeding|Bandage|
@@ -84,6 +85,8 @@ Below there is a reference list of the wounds, along with the best bandage(s) fo
 
 ## Heart Rate
 <a id="hr"></a>
+<!-- to be refined -->
+
 Heart Rate:
 
 If the casualty's heart rate gets too high or low, they can pass out, and ultimately die. Administering medication will have a direct influence over the heart rate, and incorrectly balanced can quickly incapacitate or kill them.
@@ -98,12 +101,14 @@ Any casualty with a Critical Heart Rate also risks death.
 
 ## Cardio-Pulmonary Resuscitation (CPR):
 <a id="cpr"></a>
+<!-- to be refined -->
+
 If a casualty's Heart Rate drops to 0, you will be given the option to perform CPR on their torso. This is a compression of the chest to attempt to restart the beating of the heart. This may need to be repeated multiple times, and unless the cause of the problem is treated the casualty's heart will likely stop again.
-
-
 
 ## Blood Pressure (BP) and Transfusions
 <a id="bp"></a>
+<!-- to be refined -->
+
 When the player is wounded and bleeding, his blood pressure will drop. The larger and more numerous the wounds, the quicker the pressure will fall.
 
 Ideal blood pressure is 120/80 (said "one twenty over eighty")
@@ -112,16 +117,17 @@ The lowest possible pressure is 0/0. This is a Critical situation, and will quic
 BP is restored by administering IVs of Saline, Blood, and Plasma. There are 3 different sizes of IV bags: 250ml, 500ml and 1000ml. Transfusing 250ml takes about 1 minute to complete.
 This should only be carried out when the area is safe i.e. taking no enemy contact onto your position.
 
-
 ## Personal Aid Kit (and Surgery Kit)
 <a id="pak"></a>
-Surgical kit
-Is only useful when advanced wounds’ (reopening) is enabled.
-Stitch a wound to stop it from reopening.
+
+### Personal Aid Kit
+Used to fully heal someone. (Removes any injury, restore vitals to a stable state and reset the medical history, clears all medication in the system.)
 Its use may be limited to a certain class and / or near a vehicle / facility.
 Its use can also be limited according to the condition of the patient; you might need to stabilize him first before using it.
- PAK
-Used to fully heal someone. (Removes any injury, restore vitals to a stable state and reset the medical history, clears all medication in the system.)
+
+### Surgical kit
+Is only useful when advanced wounds’ (reopening) is enabled.
+Stitch a wound to stop it from reopening.
 Its use may be limited to a certain class and / or near a vehicle / facility.
 Its use can also be limited according to the condition of the patient; you might need to stabilize him first before using it.
 
@@ -281,8 +287,8 @@ Used to Check pupil dilation.
 'Pupils mostly dialated' = Casulty is coma and in need of medevac.
 
 
-## How to treat a tier 1
-
+## How to treat a tier 1 
+<!-- to be changed -->
 The first priority with a tier 1 is to stop the bleeding. If the casualty is heavily wounded you will need to tourniquet limbs that are bleeding. bandage head then torso as required and then start bandaging the limbs. Once you have bandaged the casualty you next want to stitch them to stop the wounds reopening. Once you have stabilised the casualty with all wounds stitched remove ALL torniquetes. 
 
 If the casualty has no heart rate: 
@@ -293,7 +299,7 @@ IMPORTANT: If you check the heart rate whilst CPR is being performed it will sho
 
 If the casualty has a heart rate:
 	
-	If the casualty has lost blood you will want to administer blood.
+If the casualty has lost blood you will want to administer blood.
 
 Once you have got a heart rate and the ace medical menu is no longer showing that the casualty has lost a large amount of blood, start managing the heart rate. 
 
