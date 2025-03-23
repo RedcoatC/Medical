@@ -164,17 +164,16 @@ First Priority / Step 0
 When someone is injured your first priority is your own safety. This is critical.
 
 #### Step 1
-Report to your Section Leader that there is a 'Man down', with their name if you know it. It is now your responsibility to see to his welfare. Decide whether it is safe to move to the injured and whether you can do it before the medic arrives. If it is risky, never send the medic! 
+Report to your Section Leader that there is a 'Man down', with their name if you know it. Your IC will decide whether it is safe to move to the casualty. If it is risky, they will never send the medic first! 
 
 #### Step 2
-If you’ve moved to the casualty, analyze the extent of the injury. If the injury is severe (multiple large wounds) stabilize the injuries before moving by applying a tourniquet if a limb, or bandaging. Once the casualty is not at an immediate risk of death, even if it is somewhat critical, move to Step 3.
+If you’re the first to get to the casualty, analyze the extent of the injury. If there are a lot of wounds start enither applying a tourniquets to limbs or start bandaging.
 
 #### Step 3
-Move the casualty to the medic. There should be friendlies around to cover you whilst doing so. The medic will be in a secure position chosen at their discretion and is normally marked on the map. Note: The medic may sometimes come to you. 
+Once the casualty is stable, move the casualty to the medic. There should be friendlies around to cover you whilst doing so. The medic will be in a secure position normally marked on the map with a R- marker.
 
 #### Step 4
-When you get to the medic / the medic arrives, tell them about the casualties injuries and ask if they need any help. If no help is required, then cover the medic. DO NOT move back to your position until instructed by the medic. 
-
+When you get to the medic / the medic arrives, explain the injuries (what happened) and what you have done (bandage/tourniquet) and ask if they need any help. If no help is required, then cover the medic. DO NOT move back to your position until instructed by the medic. 
 
 #### Do's and Dont’s
 
