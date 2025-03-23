@@ -37,29 +37,26 @@ Triage for Medics: Who to treat first and why! Also important: knowing what the 
 
 Advanced Medical Phase 2:
 
-Equipment Orientation: Different types of bandages and drugs. "What the hell's Atropine?"
-Medical Knowledge - Types of injury, what to use and when. "Oh... so that's why I killed that guy!"
+- Equipment Orientation - Different types of bandages and drugs. 
+- Medical Knowledge - Types of injury, what to use and when.
 
 Advanced Medical Phase 3:
 
-Practical - Valuable field knowledge. Watch as I mutilate my beautiful assistant in various ways, then fix him up again! "Poor Lars lol" - Lt. Bridgford
+- Practical - Valuable field knowledge.
 
-Advanced Medical Phase 4: (For LCpl)
+Advanced Medical Phase 4:
 
-ASSESSMENT: Running your own Phase 3 with observation from a Senior Medic.
+- Assessment - Running your own Phase 3 with observation from a Senior Medic.
 
 Advanced Medical Phase 5:
 
-FINAL TEST: My First Op! You will be Medic on an official Saturday Operation, under observation of a Senior Medic.
+-Final Test: You will be Medic on an official Saturday Operation, under observation of a Senior Medic.
 At this stage, the candidate should have an understanding of both ACE and UKSF Procedures to the level that they can:
+- A) Act independently with no prompts
+- B) Request supplies
+- C) Prep casualties for medevac.
 
-A) Act independently with no prompts
-B) Request supplies
-C) Prep casualties for medevac.
-
-Once completed, you will be a qualified Medic!
-NOTE: Phase 4 & 5 can be done in a different order if needs be. Passing phases 1,2,3 & 5 will qualify you as a medic. You won’t get LCpl until you pass phase 4. 
-
+Once completed, you will be a qualified Medic.
 
 ## Types of Wounds
 <a id="wounds"></a>
