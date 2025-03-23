@@ -140,6 +140,20 @@ If it is determined that after treatment in a secure area casualties need MEDEVA
 
 Once the chopper has begun its ‘run in’ to the LZ, ensure you and/or the riflemen have the casualties on their backs ready to move to the Helo. The MEDEVAC must NOT be on the ground for a longer than ONE minute. This is absolutely vital. If you’re not achieving this, you’re failing the ‘man management’ side of being a medic. 
 
+![image](request.png)
+
+"Hawk, Reaper 3, Medevac request, over"
+
+"Roger, Send Medevac Request"
+
+"Roger, I have 3 by Tier 1s and 1 by Reaper at LS-5 in grid 012-345, 012-345. Security state Green, over"
+
+"Roger, 3 by Tier 1s, 1 by Reaper at LS-5 in grid 012-345, 012-345. Security state Green,  Wait out for mission details"
+
+"Reaper 3, Hawk, Mission details as follows. Break. Mission code Mike 1, Channel 3-2, with callsign Apollo 4-1"
+"Roger, Mission code Mike 1, Channel 3-2, with callsign Apollo 4-1, over"
+"Roger, good readback, hawk out"
+
 ## Phase 3
 <a id="phase3"></a>
 
