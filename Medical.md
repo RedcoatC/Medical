@@ -52,9 +52,9 @@ Advanced Medical Phase 5:
 
 -Final Test: You will be Medic on an official Saturday Operation, under observation of a Senior Medic.
 At this stage, the candidate should have an understanding of both ACE and UKSF Procedures to the level that they can:
-- A) Act independently with no prompts
-- B) Request supplies
-- C) Prep casualties for medevac.
+- Act independently with no prompts
+- Request supplies
+- Prep casualties for medevac.
 
 Once completed, you will be a qualified Medic.
 
