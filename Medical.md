@@ -327,6 +327,28 @@ If the casualty has been down for an extended period of time check the pupil dil
 Your call sign as a combat medic for radio communications on channel 8 will be 
 Reaper {Call sign Number} Bravo.
 
+
+*changes*
+mass cass someone take control that isnt a medic.
+medic shouldnt be tactical commander
+dig in for ccp but not instruct those procedures
+dont pull pax from designated spots
+
+weighing up medevac or treating in feild
+escape and evasion
+anticipate movement from casualty site
+if leadership is down take control of what to do with medical situation (medevac or in feild)
+
+reporting process for medics in mass cas situation
+Reapers take control of net
+pass on the net if we can move or staying in situ
+likelyhood of getting pax up in the feild
+
+passing off of information going through the correct personell
+team medics deal with communication and enforce
+
+team medic reporting *priority
+
 Radio etiquette 
 The radio etiquette for the Reaper net is the same as all other radio channels as per your IBRU training.
 
