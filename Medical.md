@@ -181,7 +181,7 @@ When someone is injured your first priority is your own safety. This is critical
 Report to your Section Leader that there is a 'Man down', with their name if you know it. Your IC will decide whether it is safe to move to the casualty. If it is risky, they will never send the medic first! 
 
 #### Step 2
-If you’re the first to get to the casualty, analyze the extent of the injury. If there are a lot of wounds start enither applying a tourniquets to limbs or start bandaging.
+If you’re the first to get to the casualty, analyze the extent of the injury. If there are a lot of wounds start enither applying a tourniquets to limbs or start bandaging, check to see what their blood state is like ('lost a fatal amount of blood') and check heart rate.
 
 #### Step 3
 Once the casualty is stable, move the casualty to the medic. There should be friendlies around to cover you whilst doing so. The medic will be in a secure position normally marked on the map with a R- marker.
